@@ -15,7 +15,7 @@ public class LightDisable : MonoBehaviour
         {
             if(isLightOn)
             {
-                lightComponent.intensity = 10;
+                lightComponent.intensity = 1;
             }
             else
             {
